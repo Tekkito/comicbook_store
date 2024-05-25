@@ -14,7 +14,7 @@
 Установка:
 Все просто)
 1. Создаем проект в idea (Пох на название)
-2. Кидаем все файлы из репозитория в папку src проект idei
+2. Скачиные файлы из репозитория кидаем в папку src проекта idei
 3. Все! Остается запустить ComicBookStoreApp.
 
 Если у вас выдет ошибка "java.io.FileNotFoundException: store.dat (The system cannot find the file specified)".
