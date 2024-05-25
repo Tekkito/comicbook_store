@@ -17,7 +17,7 @@
 2. Скачиные файлы из репозитория кидаем в папку src проекта idei
 3. Все! Остается запустить ComicBookStoreApp.
 
-Если у вас выдат ошибку "java.io.FileNotFoundException: store.dat (The system cannot find the file specified)".
+Если у вас выдает ошибку "java.io.FileNotFoundException: store.dat (The system cannot find the file specified)".
 Ничего страшного, просто напишите какую-нибуть хрень в логин и пароль, чтобы создался файл store.dat.
 
 Логин и пароль - admin
