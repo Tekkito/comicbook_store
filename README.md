@@ -25,3 +25,5 @@
 
 ![image](https://github.com/Tekkito/comicbook_store/assets/159029316/9eff0a9d-c075-41b5-822e-164ee06d4c40)
 
+![image](https://github.com/Tekkito/comicbook_store/assets/159029316/bb69aa79-db8b-4944-ba9b-ff7df0a48da8)
+
