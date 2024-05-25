@@ -21,3 +21,7 @@
 Ничего страшного, просто напишите какую-нибуть хрень в логин и пароль, чтобы создался файл store.dat.
 
 Логин и пароль - admin
+
+
+![image](https://github.com/Tekkito/comicbook_store/assets/159029316/9eff0a9d-c075-41b5-822e-164ee06d4c40)
+
